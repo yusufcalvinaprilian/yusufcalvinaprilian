@@ -1,23 +1,6 @@
-## Hi there, Welcome to my digital workshop! 👋
+<h2 align="center">Hello World, I'm Calvin 👋<br><br>I'm a developer who believes in the power of continuous learning. Driven by curiosity, I'm always exploring new technologies to solve complex problems and create meaningful projects.</h2>
 
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2 align="center">
-Halo, saya Calvin <br><br>I'm a developer who believes in the power of continuous learning. Driven by curiosity, I'm always exploring new technologies to solve complex problems and create meaningful projects.</h2>
-
-
+###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yusufcalvinaprilian&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -26,7 +9,7 @@ Halo, saya Calvin <br><br>I'm a developer who believes in the power of continuou
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -48,11 +31,7 @@ Halo, saya Calvin <br><br>I'm a developer who believes in the power of continuou
 
 ###
 
-<img align="right" height="50" src="https://imgflip.com/gif/a4qvy4"  />
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https:/www.instagram.com/calvinapriliann" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -72,14 +51,16 @@ Halo, saya Calvin <br><br>I'm a developer who believes in the power of continuou
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/yusufcalvinaprilian/yusufcalvinaprilian/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufcalvinaprilian&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yusufcalvinaprilian/yusufcalvinaprilian/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yusufcalvinaprilian/yusufcalvinaprilian/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yusufcalvinaprilian/yusufcalvinaprilian/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
